@@ -1,0 +1,47 @@
+.mat-card-isologo {
+    height: 75px;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+.mat-card-img{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 22px;
+    margin-top: 24px;
+    border: 1px solid;
+    padding-bottom: 22px;
+    border-color: transparent transparent #a9a9a9 transparent ;
+}
+.mat-card{
+    max-width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    
+}
+footer{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+}
+.footer{
+    display: flex;
+    text-align: center;
+    width: 365px;
+}
+.img-serlino{
+    max-height: 75px;
+    padding: 25px;
+}
+.img-binamics{
+    max-height: 35px;
+    padding: 25px;
+}
+
+.mat-card-actions, .mat-card-subtitle, .mat-card-content {
+    display: block;
+    margin-bottom: 0px !important;
+}
